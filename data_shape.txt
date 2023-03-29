@@ -1,0 +1,199 @@
+    <tbody><tr valign="top">
+
+
+
+
+        <td colspan="3" style="position:relative;" class="defaultTitleAlign">
+
+                <h1 style="display:inline-block;margin-right:10px;line-height:30px;">
+            Manuel Ortiz
+    </h1>
+
+    <div style="width:100%;position:relative;margin-top:5px;">
+      
+      
+      
+        
+          </div>
+  </td>
+</tr>
+
+
+    <tr class="profileTable">
+
+      <td valign="top" class="profileTable" style="width:210px;text-align:center;">
+        <div class="profileTablePhoto">
+                      <div style="width:200px;margin-bottom:10px;margin:0 auto;"><table border="0" cellspacing="0" cellpadding="0" class="profileWLD">
+  <tbody><tr>
+    <td class="bgW" style="border-right:1px solid #fff;border-radius:5px 0 0 5px;-webkit-border-radius:5px 0 0 5px;-moz-border-radius:5px 0 0 5px;">99</td>
+    <td class="bgL" style="border-right:1px solid #fff;">28</td>
+    <td class="bgD" style="border-radius:0 5px 5px 0;-webkit-border-radius:0 5px 5px 0;-moz-border-radius:0 5px 5px 0;">3</td>
+  </tr>
+  <tr>
+    <th class="textWon">53 KOs</th>
+    <th class="textLost">1 KOs</th>
+    <th></th>
+  </tr>
+</tbody></table>
+</div>
+
+
+      <a href="https://boxrec.com/wiki/index.php?title=Human:1" style="position:relative">
+        <img border="0" src="https://boxrec.com/images/thumb/8/83/1.jpeg/200px-1.jpeg" width="200px" class="photoBorder">
+      </a>
+
+
+        </div>
+
+  <div style="display: inline-block; position: relative; text-decoration: none;">
+    <a href="https://boxrec.com/wiki/index.php?title=Human:1" style="text-decoration: none;"><span class="fa-layers fa-fw table-square-icon cell-icon header-icon"><i class="fab fa-wikipedia-w square-icon" style="color: #0039cc !important;"></i><span class="fa-layers-text fa-inverse" style="color: #0039cc !important;">wiki</span></span></a><a href="/en/watch/1?returnUrl=/en/proboxer/1" style="text-decoration: none;"><span class="fa-layers fa-fw header-icon table-square-icon cell-icon"><i class="far fa-eye square-icon"></i><span class="fa-layers-text fa-inverse">follow</span></span></a>
+
+
+      </div>
+      </td>
+
+      <td colspan="2" valign="top" class="profileTable" style="text-align:left;">
+        <div style="display:inline-block;position:relative;margin-bottom:5px;">
+  <a href="/en/box-am/1"><div style="display:inline-block;margin:8px 0 0 4px;border-color:#888;" class="roleButton box-pro"><i class="fas fa-user-circle" style="display:inline-block; width: 28px height: 28px;color:black;"></i> Box-am
+              </div></a><div style="position:relative;color:#fff;font-weight:bold;display:inline-block;margin:8px 0 0 5px;" class="roleButton roleBack box-pro"><i class="fas fa-user-circle" style="color: white !important"></i> Box-pro
+          </div><a href="/en/box-pro/1?allSports=y"><div style="display:inline-block;margin:8px 0 0 4px;border-color:#888;" class="roleButton box-pro"><i class="fas fa-user-circle" style="color:black;"></i> All Bouts
+            </div></a></div>        <div style="clear:both;"></div>
+        <div style="float:left;padding-right:20px;">
+
+<table border="0" cellspacing="0" cellpadding="0" class="rowTable">
+
+          <tbody><tr>
+        <td class="rowLabel"><b>division</b></td>
+        <td>  bantam
+</td>
+      </tr>
+
+          <tr>
+        <td class="rowLabel"><b>status</b></td>
+        <td>
+          inactive
+        </td>
+      </tr>
+
+    <tr>
+      <td class="rowLabel"><b>bouts</b></td>
+      <td>130</td>
+    </tr>
+
+    <tr>
+      <td class="rowLabel"><b>rounds</b></td>
+      <td>
+        1106
+      </td>
+    </tr>
+
+    <tr>
+      <td class="rowLabel"><b>KOs</b></td>
+      <td>
+        40.77%
+      </td>
+    </tr>
+
+
+          <tr>
+        <td class="rowLabel"><b>career</b></td>
+        <td>
+
+1938-1955
+</td>
+      </tr>
+              <tr>
+        <td class="rowLabel"><b>debut</b></td>
+        <td>1938-03-11
+</td>
+      </tr>
+
+
+
+</tbody></table>
+
+<br>        </div>
+                  <div style="float:left;">
+
+  <table border="0" cellspacing="0" cellpadding="0" class="rowTable">
+    <tbody><tr>
+      <td valign="top" class="rowLabel"><b>ID# </b></td>
+      <td>
+        000001
+      </td>
+    </tr>
+
+
+
+
+
+
+
+              <tr>
+          <td class="rowLabel"><b>sex</b></td>
+          <td>
+                            <i class="fas fa-mars" style="color:#7faefd !important;font-size:14px;"></i>
+                        male
+          </td>
+        </tr>
+
+
+              <tr>
+                  </tr>
+                    <tr>
+          <td class="rowLabel"><b>nationality</b></td>
+          <td>            <span class="flag-icon flag-icon-us"></span>
+        USA
+
+</td>
+        </tr>
+
+
+                    <tr>
+          <td class="rowLabel"><b>stance</b></td>
+          <td>orthodox</td>
+        </tr>
+
+              <tr>
+          <td class="rowLabel"><b>height</b></td>
+          <td>5′ 4″ &nbsp; / &nbsp; 163cm</td>
+        </tr>
+
+              <tr>
+          <td class="rowLabel"><b>reach</b>
+            <a href="javascript:void(0);" onclick="showReach()">
+                            <i class="fas fa-info-circle" style="width: 16px; height: 16px; color: #008bcf !important;" data-fa-transform=" down-2 "></i>
+            </a>
+          </td>
+          <td>64½″ &nbsp; / &nbsp; 164cm</td>
+        </tr>
+
+
+          <tr>
+        <td class="rowLabel" valign="top"><b>residence</b></td>
+        <td><span class="flag-icon flag-icon-us" style="margin-right: 3px"></span>El Centro, California, USA</td>
+      </tr>
+
+          <tr>
+        <td class="rowLabel" valign="top"><b>birth place</b></td>
+        <td>          <span class="flag-icon flag-icon-us" style="margin-right: 3px"></span>Corona, California, USA
+</td>
+      </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </tbody></table>
+          </div>
+              </td>
+    </tr>
+      </tbody>
