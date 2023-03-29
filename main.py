@@ -5,8 +5,8 @@ from lxml import *
 from data import *
 # import pytest
 
-passw = "Bodysalah2015#"
-user = "abdulrahman.elnabwi@gmail.com"
+passw = ""
+user = ""
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
